@@ -1,3 +1,4 @@
+![dynv6](https://github.com/user-attachments/assets/2fdeda3a-adb9-4984-adae-dcd935c6932a)
 
 # dynv6 API specification
 
