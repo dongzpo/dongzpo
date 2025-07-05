@@ -1,3 +1,4 @@
+![Uploading dynv6.png…]()
 # dynv6 API specification
 
 API documentation spanning backend, frontend and clients.
