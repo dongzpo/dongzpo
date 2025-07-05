@@ -1,5 +1,4 @@
-![Uploading IMG_20250702_233725_290.jpg…]()
-![Uploading dynv6.png…]()
+
 # dynv6 API specification
 
 API documentation spanning backend, frontend and clients.
