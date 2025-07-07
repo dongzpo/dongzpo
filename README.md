@@ -4,7 +4,7 @@
 
 API documentation spanning backend, frontend and clients.
 
-Goto <https://akosidongz.github.io/dongzpo/> to browse the documentation.
+Goto <https://akosidongz.github.io/> to browse the documentation.
 
 ---
 
