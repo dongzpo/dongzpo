@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>dynv6 API specification</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="dynv6 API specification" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="API documentation for the dynv6 service" />
+<meta property="og:description" content="API documentation for the dynv6 service" />
+<link rel="canonical" href="https://dongzpo.github.io/" />
+<meta property="og:url" content="https://dongzpo.github.io/" />
+<meta property="og:site_name" content="dongz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="dynv6 API specification" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"API documentation for the dynv6 service","headline":"dynv6 API specification","name":"dongz","url":"https://dongzpo.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f74963276e6415b47e23f1b6372f5ab53b530732">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://dongzpo.github.io/">dongz</a></h1>
+      
+
+      <h1 id="dynv6-api-specification">dynv6 API specification</h1>
+
+<p><img src="https://github.com/user-attachments/assets/3a6e7ecd-4c99-4759-9cda-57c5c23c3005" alt="dynv6" /></p>
+
+<p>API documentation spanning backend, frontend and clients.</p>
+
+<p>Goto <a href="https://dynv6.github.io/api-spec/">https://dynv6.github.io/api-spec/</a> to browse the documentation.</p>
+
+<hr />
+
+<p><a href="https://dynv6.com/">dynv6.com</a> is a free service by
+<a href="https://www.digineo.de/">Digineo GmbH</a></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
